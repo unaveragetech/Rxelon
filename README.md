@@ -1,6 +1,6 @@
 # **Rxelon: Decentralized Compute Network**  
 *README*  
-What’s_a_node?.md
+[whats a node](https://github.com/unaveragetech/Rxelon/blob/d968a2c8ba52994fe416be56e95ef2f323e8029e/What%E2%80%99s_a_node%3F.md)
 
 ---
 
