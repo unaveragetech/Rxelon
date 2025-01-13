@@ -1,7 +1,8 @@
 # **Rxelon: Decentralized Compute Network**  
 *README*  
-[whats a node](https://github.com/unaveragetech/Rxelon/blob/d968a2c8ba52994fe416be56e95ef2f323e8029e/What%E2%80%99s_a_node%3F.md)
-[chs?](https://github.com/unaveragetech/Rxelon/blob/6065287bf5e94da8dc76d01395ef4f209a32b322/What%E2%80%99s_the_chs%3F.md)
+-[whats a node](https://github.com/unaveragetech/Rxelon/blob/d968a2c8ba52994fe416be56e95ef2f323e8029e/What%E2%80%99s_a_node%3F.md)
+
+-[chs?](https://github.com/unaveragetech/Rxelon/blob/6065287bf5e94da8dc76d01395ef4f209a32b322/What%E2%80%99s_the_chs%3F.md)
 
 ---
 
