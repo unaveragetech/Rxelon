@@ -15,6 +15,12 @@
 6. [Use Cases](#use-cases)
 7. [Getting Started](#getting-started)
 8. [Future Developments](#future-developments)
+---
+-[Whats a node](https://github.com/unaveragetech/Rxelon/blob/d968a2c8ba52994fe416be56e95ef2f323e8029e/What%E2%80%99s_a_node%3F.md)
+
+-[Chs?](https://github.com/unaveragetech/Rxelon/blob/6065287bf5e94da8dc76d01395ef4f209a32b322/What%E2%80%99s_the_chs%3F.md)
+
+-[Lets explain it with some graphics](https://github.com/unaveragetech/Rxelon/blob/8f85e86110516a91d94282506c571cbabc6fd385/Interactions_breakdown.md)
 
 ---
 
